@@ -1,0 +1,28 @@
+.body {
+    background-color: blueviolet;
+    width: 80%;
+    text-align: center;
+    margin: initial;
+    margin-top: 50px;
+    padding-top: 10px;
+    margin-left: 110px;
+    border-radius: 10px;
+}
+
+.head {
+    background-color: rgb(81, 35, 124);
+    width: 80%;
+    padding-top: 10px;
+    height: 600px;
+    margin: initial;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+
+.end{
+    background-color: rgb(41, 17, 63);
+    border-radius: 10px;
+    margin: initial;
+    padding-top: 15px;
+    height: 625px;
+}
